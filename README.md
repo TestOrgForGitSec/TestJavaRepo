@@ -74,5 +74,5 @@ Get the VulnerableSpring Project from here:
 https://github.com/CSPF-Founder/VulnerableSpring
 
 
-TESTTOKENVALUE
+API_KEY=1234askdhkasdhfk234
 
