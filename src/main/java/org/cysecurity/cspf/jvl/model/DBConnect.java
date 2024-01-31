@@ -29,6 +29,7 @@ public class DBConnect {
          String dbpass = properties.getProperty("dbpass");
        String dbfullurl = properties.getProperty("dburl")+properties.getProperty("dbname");
        String jdbcdriver = properties.getProperty("jdbcdriver");
+      APIKEY="glpat-59atk_p2izLQB2Pyxw12";
             Connection con=null;
           try
                    {
